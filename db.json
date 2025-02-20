@@ -15,10 +15,26 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "id": "ee7a",
+      "userId": 3,
+      "title": "Fantastic Fresh Chips"
+    },
+    {
+      "id": "287e",
+      "userId": 4,
+      "title": "Refined Cotton Mouse"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "74b5",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=82192"
+    },
+    {
+      "id": "b34e",
+      "albumId": null,
+      "url": "https://loremflickr.com/150/150/abstract?lock=26715"
+    }
+  ]
 }
